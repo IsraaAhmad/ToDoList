@@ -1,0 +1,27 @@
+.remove{
+    width: 25px;
+    height: 25px;
+    background-image: url('https://www.flaticon.com/svg/static/icons/svg/446/446046.svg');
+    border: none;
+    
+    margin: 7px;
+    
+}
+.edit{
+    width: 25px;
+    height: 25px;
+    border: none;
+    margin: 7px;
+}
+.item{
+    background-color: #E5E7E9;
+    border-style: solid;
+    border-color: darkred;
+}
+.text{
+    font-size: larger;
+    font:bold;
+}
+.show{
+    width: 310px;
+}
